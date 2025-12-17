@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/pushparaj-supekar](www.linkedin.com/in/pushparaj-supekar)
 
-- 💬 Ask me about ** Html ,CSS, BOOTSTRAP**
+- 💬 Ask me about ** Html ,CSS,Javascript, BOOTSTRAP, Java, SpringBoot, ReactJS, AWS**
 
 - 📫 How to reach me **supekar0573@gmail.com**
 
