@@ -9,7 +9,7 @@
 
 - 💬 Ask me about ** Html ,CSS,Javascript, BOOTSTRAP, Java, SpringBoot, ReactJS, AWS**
 
-- 📫 How to reach me **supekar0573@gmail.com**
+- 📫 How to reach me **pushparajs7568r@gmail.com**
 
 - ⚡ Fun fact **Content Creation**
 
